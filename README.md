@@ -1,0 +1,2 @@
+# b-tree-performance-analysis-versus-other-data-structures
+Análise do uso da Árvore B no armazenamento de registros de desastres ambientais, utilizando IDs únicos. O desempenho da estrutura foi comparado às árvores AVL e às listas encadeadas em operações de busca, inserção e remoção. Os testes, implementados em Python, demonstraram a superioridade da Árvore B no processamento de grandes volumes de dados.
