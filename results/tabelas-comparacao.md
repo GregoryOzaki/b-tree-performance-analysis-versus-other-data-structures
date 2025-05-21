@@ -5,8 +5,10 @@ como a árvore AVL e a lista encadeada. Foram usadas as mesmas entradas
 para as operações de busca, inserção e remoção. As quantidades de entradas
 correspondem ao número de IDs inseridos (10, 100 e 1000), enquanto as buscas e
 remoções ocorreram em 6, 50 e 500 casos, respectivamente. Além disso, calculou-se o
-tempo total das três funções e sua média.
-[Acessar os gráficos de desempenho](https://github.com/GregoryOzaki/b-tree-performance-analysis-versus-other-data-structures/blob/main/results/grafico-desempenho.md).
+tempo total das três funções e sua média. Nos gráficos pode-se observar o desempenho de
+execução da árvore B com as outras estruturas.
+
+👉 [Acessar gráficos de desempenho](https://github.com/GregoryOzaki/b-tree-performance-analysis-versus-other-data-structures/blob/main/results/grafico-desempenho.md)
 
 ### Quantidade de Entradas: 10
 
