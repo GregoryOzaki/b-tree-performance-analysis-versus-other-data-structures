@@ -7,6 +7,13 @@ O fluxograma a seguir descreve o funcionamento do sistema interativo para manipu
 - Alterar Info: Permite modificar informações associadas a um ID existente.
 - Exibir Tree: Mostra a estrutura atual da Árvore B.
 
-Todas essas operações — com exceção de "Buscar ID" e "Exibir Tree" — envolvem chamadas à rotina de manipulação dos dados da Árvore B, que é o componente central do sistema responsável pelas atualizações na estrutura. Caso o usuário escolha a opção "Sair", o sistema encerra o fluxo com um nó de fim. Se qualquer outra opção for escolhida e concluída, o sistema retorna ao menu principal, permitindo novas interações.
+As operações foram organizadas em dois subprocessos distintos:
+- Consultar Dados: agrupa as ações de buscar um ID e exibir a estrutura da árvore. Essas operações não modificam a árvore, apenas acessam e exibem informações, por isso foram corretamente separadas em um subprocesso próprio de leitura/visualização.
 
-![Fluxograma do Sistema](https://drive.google.com/uc?export=view&id=1ACzUtPHLP3U4XHIP-2tzsTza6icKIcm6)
+- Manipular Dados: inclui as operações de inserir ID, remover ID e alterar informações. Todas essas ações envolvem modificações na estrutura da Árvore B, justificando seu agrupamento em um subprocesso específico de manipulação.
+
+Se o usuário optar por “Sair”, o sistema finaliza o fluxo no bloco de término. Caso contrário, após a execução de qualquer uma das funções, o sistema retorna ao menu principal, permitindo a realização de novas operações. O uso correto dos símbolos no fluxograma — como elipses para início/fim, losango para decisão, paralelogramo para entrada/saída e retângulos (inclusive com borda dupla para subprocessos) — garante clareza e organização ao modelo. A separação entre leitura e manipulação de dados torna o sistema mais modular, facilitando tanto a manutenção quanto a compreensão do processo.
+
+<p align="center">
+  <img src="https://drive.google.com/uc?export=view&id=1Ba3r4TCXhvFGZ33L_ezlTu_wjoulwlDS" height="400"  width="1100"/>
+</p>
