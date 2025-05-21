@@ -8,7 +8,7 @@ remoções ocorreram em 6, 50 e 500 casos, respectivamente. Além disso, calculo
 tempo total das três funções e sua média. O gráfico a seguir compara o desempenho de
 execução da árvore B com as outras estruturas.
 
-## Quantidade de Entradas: 10
+### Quantidade de Entradas: 10
 
 | Estrutura de Dados | Busca | Inserção | Remoção | Média | Total |
 |--------------------|-------|----------|---------|-------|-------|
@@ -16,7 +16,7 @@ execução da árvore B com as outras estruturas.
 |     Árvore AVL     ||||||
 |   Lista Encadeada  ||||||
 
-## Quantidade de Entradas: 100
+### Quantidade de Entradas: 100
 
 | Estrutura de Dados | Busca | Inserção | Remoção | Média | Total |
 |--------------------|-------|----------|---------|-------|-------|
@@ -24,7 +24,7 @@ execução da árvore B com as outras estruturas.
 |     Árvore AVL     ||||||
 |   Lista Encadeada  ||||||
 
-## Quantidade de Entradas: 1000
+### Quantidade de Entradas: 1000
 
 | Estrutura de Dados | Busca | Inserção | Remoção | Média | Total |
 |--------------------|-------|----------|---------|-------|-------|
