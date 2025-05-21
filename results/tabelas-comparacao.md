@@ -9,7 +9,7 @@ tempo total das três funções e sua média.
 
 ### Quantidade de Entradas: 10
 
-| Estrutura de Dados | Busca | Inserção | Remoção | Média | Total |
+| Estrutura de Dados | Busca | Inserção | Remoção | Total | Média |
 |--------------------|-------|----------|---------|-------|-------|
 |      Árvore B      |0.000025|0.000022|0.000041|0.000088|0.000029|
 |     Árvore AVL     |0.000008|0.000058|0.000036|0.000101|0.000034|
@@ -17,7 +17,7 @@ tempo total das três funções e sua média.
 
 ### Quantidade de Entradas: 100
 
-| Estrutura de Dados | Busca | Inserção | Remoção | Média | Total |
+| Estrutura de Dados | Busca | Inserção | Remoção | Total | Média |
 |--------------------|-------|----------|---------|-------|-------|
 |      Árvore B      |0.000335|0.000261|0.000346|0.000942|0.000314|
 |     Árvore AVL     |0.000081|0.000553|0.000391|0.001025|0.000342|
@@ -25,7 +25,7 @@ tempo total das três funções e sua média.
 
 ### Quantidade de Entradas: 1000
 
-| Estrutura de Dados | Busca | Inserção | Remoção | Média | Total |
+| Estrutura de Dados | Busca | Inserção | Remoção | Total | Média |
 |--------------------|-------|----------|---------|-------|-------|
 |      Árvore B      |0.008891|0.004039|0.003223|0.016153|0.005384|
 |     Árvore AVL     |0.001389|0.010116|0.006978|0.018483|0.006161|
