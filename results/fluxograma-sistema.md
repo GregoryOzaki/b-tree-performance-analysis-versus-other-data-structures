@@ -1,6 +1,6 @@
 # Fluxograma do Sistema
 
-O fluxograma a seguir descreve o funcionamento do sistema interativo para manipulação de dados em uma Árvore B. A lógica do fluxo inicia com o usuário acessando o menu principal, onde são oferecidas diversas opções de operação. A partir da escolha do usuário, o sistema avalia a opção selecionada por meio de uma decisão condicional ("OPÇÃO?"). As opções disponíveis incluem:
+O fluxograma a seguir descreve o funcionamento do sistema interativo para manipulação de dados da Árvore B. A lógica do fluxo inicia com o usuário acessando o menu principal, onde são oferecidas diversas opções de operação. A partir da escolha do usuário, o sistema avalia a opção selecionada por meio de uma decisão condicional ("OPÇÃO?"). As opções disponíveis incluem:
 - Inserir ID: Adiciona um novo registro à Árvore B.
 - Buscar ID: Localiza e exibe um registro específico.
 - Remover ID: Exclui um registro da árvore.
