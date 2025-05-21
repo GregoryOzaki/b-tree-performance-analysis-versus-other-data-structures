@@ -1,4 +1,4 @@
-# Tabelas de Compração
+# Tabelas de Comparação
 
 As tabelas abaixo comparam o tempo de execução da árvore B com outras estruturas,
 como a árvore AVL e a lista encadeada. Foram usadas as mesmas entradas
