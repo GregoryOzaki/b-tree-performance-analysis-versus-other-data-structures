@@ -8,7 +8,7 @@ O trabalho propõe a implementação de uma Árvore B como estrutura de dados pr
 ### 🛠️ Material e Métodos
 - Linguagem: Python
 - Ambiente: Windows (desktop e notebook)
-- Ferramentas: Visual Studio Code
+- Ferramentas: Visual Studio Code, Draw.io
 
 Implementações:
 - Geração de IDs únicos baseados no tipo e data do desastre.
