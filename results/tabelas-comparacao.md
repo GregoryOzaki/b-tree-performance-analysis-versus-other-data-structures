@@ -2,7 +2,7 @@
 
 As tabelas a seguir comparam o tempo de execução da Árvore B com outras estruturas de dados, como a Árvore AVL e a Lista Encadeada. Foram utilizadas as mesmas entradas para realizar as operações de busca, inserção e remoção. As quantidades de entrada correspondem ao número de IDs inseridos (10, 100 e 1000), enquanto as buscas e remoções foram realizadas em 6, 50 e 500 casos, respectivamente. Também foram calculados o tempo total das três operações e a média de execução. Os gráficos permitem visualizar comparativamente o desempenho da Árvore B em relação às demais estruturas.
 
-👉 [Acessar gráficos de desempenho.](https://github.com/GregoryOzaki/b-tree-performance-analysis-versus-other-data-structures/blob/main/results/grafico-desempenho.md)
+👉 [Acessar gráficos de desempenho.](https://github.com/gregoryozaki/b-tree-performance-analysis-versus-other-data-structures/blob/main/results/graficos-desempenho.md)
 
 ### Quantidade de Entradas: 10
 
